@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7837a631.css",
+    "main.js": "/portfolio/static/js/main.315d3400.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/MohamedAMINEBOughraraE.pdf": "/portfolio/static/media/MohamedAMINEBOughraraE.40a7060d0db381182327.pdf",
+    "static/media/img.png": "/portfolio/static/media/img.2a7b5b9a6c33fbe2df37.png",
+    "static/media/LOGO_TT_.png": "/portfolio/static/media/LOGO_TT_.7d9410433344dc8b8634.png",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/suicide.png": "/portfolio/static/media/suicide.65581da146cdea62a6b7.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.82866408326e175e4cff.png",
+    "static/media/shutdown.png": "/portfolio/static/media/shutdown.3907179b293857bd4f9a.png",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.07eb65f4fad4932ac40d.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/portfolio/index.html",
+    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "main.7837a631.css.map": "/portfolio/static/css/main.7837a631.css.map",
+    "main.315d3400.js.map": "/portfolio/static/js/main.315d3400.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7837a631.css",
+    "static/js/main.315d3400.js"
+  ]
+}
